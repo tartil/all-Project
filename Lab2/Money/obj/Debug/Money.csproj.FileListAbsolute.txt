@@ -1,0 +1,5 @@
+C:\Users\koval\Desktop\gitlab\Lab2\Money\bin\Debug\Money.dll
+C:\Users\koval\Desktop\gitlab\Lab2\Money\bin\Debug\Money.pdb
+C:\Users\koval\Desktop\gitlab\Lab2\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+C:\Users\koval\Desktop\gitlab\Lab2\Money\obj\Debug\Money.dll
+C:\Users\koval\Desktop\gitlab\Lab2\Money\obj\Debug\Money.pdb

@@ -1,0 +1,15 @@
+D:\Projects\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\koval\Desktop\gitlab\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\koval\Desktop\gitlab\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\koval\Desktop\gitlab\Lab2\bin\Debug\Lab2.exe
+C:\Users\koval\Desktop\gitlab\Lab2\bin\Debug\Lab2.pdb
+C:\Users\koval\Desktop\gitlab\Lab2\bin\Debug\BusinessCard.dll
+C:\Users\koval\Desktop\gitlab\Lab2\bin\Debug\CreditLibrary.dll
+C:\Users\koval\Desktop\gitlab\Lab2\bin\Debug\DepositClass.dll
+C:\Users\koval\Desktop\gitlab\Lab2\bin\Debug\Money.dll
+C:\Users\koval\Desktop\gitlab\Lab2\bin\Debug\BusinessCard.pdb
+C:\Users\koval\Desktop\gitlab\Lab2\bin\Debug\CreditLibrary.pdb
+C:\Users\koval\Desktop\gitlab\Lab2\bin\Debug\DepositClass.pdb
+C:\Users\koval\Desktop\gitlab\Lab2\bin\Debug\Money.pdb
+C:\Users\koval\Desktop\gitlab\Lab2\obj\Debug\Lab2.exe
+C:\Users\koval\Desktop\gitlab\Lab2\obj\Debug\Lab2.pdb

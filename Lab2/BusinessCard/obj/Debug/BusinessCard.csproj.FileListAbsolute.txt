@@ -1,0 +1,4 @@
+C:\Users\koval\Desktop\gitlab\Lab2\BusinessCard\bin\Debug\BusinessCard.dll
+C:\Users\koval\Desktop\gitlab\Lab2\BusinessCard\bin\Debug\BusinessCard.pdb
+C:\Users\koval\Desktop\gitlab\Lab2\BusinessCard\obj\Debug\BusinessCard.dll
+C:\Users\koval\Desktop\gitlab\Lab2\BusinessCard\obj\Debug\BusinessCard.pdb
